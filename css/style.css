@@ -1,0 +1,18 @@
+.container{
+    background-color: blanchedalmond;
+}
+.container-fluid{
+    background-color: blanchedalmond;
+}
+.container-sm{
+    border: 2px solid blue;
+    margin-bottom: 10px;
+}
+.container-md{
+    border: 2px solid goldenrod;
+    margin-bottom: 10px;
+}
+.container-lg{
+    border: 2px solid green;
+    margin-bottom: 10px;
+}
